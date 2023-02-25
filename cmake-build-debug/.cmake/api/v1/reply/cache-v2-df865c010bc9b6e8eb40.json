@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/gersonmjl/CLionProjects/untitled2/cmake-build-debug"
+			"value" : "/home/gersonmjl/CLionProjects/exercises/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/gersonmjl/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/gersonmjl/CLionProjects/exercises/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/gersonmjl/CLionProjects/untitled2"
+			"value" : "/home/gersonmjl/CLionProjects/exercises"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1019,7 +1019,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/gersonmjl/CLionProjects/untitled2/cmake-build-debug"
+			"value" : "/home/gersonmjl/CLionProjects/exercises/cmake-build-debug"
 		},
 		{
 			"name" : "exercises_IS_TOP_LEVEL",
@@ -1043,43 +1043,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/gersonmjl/CLionProjects/untitled2"
-		},
-		{
-			"name" : "untitled2_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/gersonmjl/CLionProjects/untitled2/cmake-build-debug"
-		},
-		{
-			"name" : "untitled2_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "untitled2_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/gersonmjl/CLionProjects/untitled2"
+			"value" : "/home/gersonmjl/CLionProjects/exercises"
 		}
 	],
 	"kind" : "cache",
