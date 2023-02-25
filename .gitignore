@@ -1,0 +1,30 @@
+# Clion IDE files
+.idea/
+*.iml
+
+# Compiled output
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+debug/
+*.dSYM/
+*.pdb
+
+# Libraries
+lib/
+*.a
+*.lib
+
+# Miscellaneous
+*.log
+*.swp
+*.swo
+*.DS_Store
