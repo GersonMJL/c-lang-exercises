@@ -1,6 +1,7 @@
 # Clion IDE files
 .idea/
 *.iml
+cmake-build-debug/
 
 # Compiled output
 bin/
